@@ -1,4 +1,5 @@
 Result Summary Component
+
 A Result Summary Component built using HTML and CSS to display a user's test results. The component features an overall score and individual category breakdowns such as Reaction, Memory, Verbal, and Visual. It’s designed with a clean and responsive layout.
 
 ✨ Features
