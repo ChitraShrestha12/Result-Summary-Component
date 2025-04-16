@@ -21,6 +21,7 @@ Neatly structured with semantic HTML5
 👉 Check out the live demo here (https://preeminent-puppy-40e8af.netlify.app/)
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3 (external stylesheet)
